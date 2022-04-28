@@ -1,8 +1,8 @@
 # The red man
 
- ![redman](redman.jpg)
+ [redman](redman.jpg)
 
-* The red man, as his name suggests.. **was'nt red**, no, he had a normal colour, it's just the name i decided to give to him.  
-But he had hands instead of feet and feet instead of hands.
-Everyone laughed at him due to his difference, but one day...
+* The red man, comme son nom l'indique.. **n'est pas rouge**, non, il est d'une couleur classique, c'est juste le nom que j'ai envie de lui donner.  
+Mais il a une particularité, les pieds à la place des mains et vice-versa.
+Tout le monde rigolait de lui, mais un jour...
   
